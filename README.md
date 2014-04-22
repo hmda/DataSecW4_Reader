@@ -1,4 +1,4 @@
-DataSecW4Reader
+DataSecW4_Reader
 ===============
 - Khi chạy chương trình thì ta cần bỏ file baomoi_20140408050320.json vào folder input.
 - Kết quả xuất ra file output
